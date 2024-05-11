@@ -1,2 +1,2 @@
 # WordCount
-Word Count is helpful to count words, letter and remove extra spaces from text.
+Word Count helps count words, and letters and remove extra spaces from text.
